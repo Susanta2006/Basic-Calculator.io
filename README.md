@@ -24,11 +24,6 @@ The Calculations are fully done via Javascript.
 
 
 # This is the Picture of My Project:
-
-![Screenshot 2025-04-22 125827](https://github.com/user-attachments/assets/5d8a018c-ad56-4acf-a117-4f6875d06cd4)
-
-# This is the Video of My Project:
-
-https://github.com/user-attachments/assets/b565e16d-9613-4c05-9c20-a06a13b3c50d
+![Screenshot 2025-05-23 094236](https://github.com/user-attachments/assets/e3673ee3-efc6-4b1c-bf5e-5d7d8b3ec0b2)
 
 # Thank You For Visiting..
